@@ -1,4 +1,6 @@
 Task Manager Application
+
+
 The Task Manager Application is a simple, responsive, and user-friendly web application built with React.js. It allows users to add, update, delete, and manage tasks effectively. Each task includes details like title, description, due date, status, and category.
 
 Features
