@@ -69,22 +69,8 @@ Each task card includes:
 Title, Description, Due Date, Status
 Edit and Delete buttons.
 Edit and Delete operations update the local storage and UI dynamically.
-File Structure
-plaintext
-Copy code
-src/
-├── components/
-│   ├── NoteForm/
-│   │   ├── NoteForm.js      # Form component to manage tasks
-│   │   ├── NoteForm.css     # Styles for NoteForm
-│   ├── NoteList/
-│   │   ├── NoteList.js      # Task card component
-│   │   ├── NoteList.css     # Styles for NoteList
-├── App.js                   # Main entry component
-├── index.js                 # Application entry point
-└── styles/
-    ├── global.css           # Global styling
-Styling Highlights
+
+
 Main Page:
 Tasks are arranged in a grid layout with flex-wrap, ensuring responsiveness.
 Task Cards:
